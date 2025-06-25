@@ -1,5 +1,4 @@
 [workspace]
-resolver = "1" # unifying Cargo features asap for Book tests
 members = [
     "benches",
     "book",
